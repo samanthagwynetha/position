@@ -1,0 +1,48 @@
+body{
+  height: 800px;
+  padding-left: 50px;
+}
+.facebook{
+  display: flex;
+
+}
+.profile{
+  height: 60px;
+  border-radius: 30px;
+  position: fixed;
+}
+p{
+  font-family: Arial;
+  font-size: 18px;
+  position: fixed;
+  left: 130px;
+}
+.Add_button{
+  position: fixed;
+  left: 500px;
+  top: 20px;
+  height: 40px;
+  width: 100px;
+  background-color: rgb(61, 61, 255);
+  color: white;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+}
+.Message{
+  position: fixed;
+  top: 20px;
+  left: 610px;
+  height: 40px;
+  width: 80px;
+  background-color: rgb(209, 209, 209);
+  border: none;
+  color: rgb(0, 0, 0);
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+}
